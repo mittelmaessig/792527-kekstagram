@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Мария Алексеева](https://up.htmlacademy.ru/javascript/14/user/792527).
-* Наставник: `Неизвестно`.
+* Наставник: Птетька Волобуев.
 
 ---
 
